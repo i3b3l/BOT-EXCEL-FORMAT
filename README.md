@@ -1,4 +1,4 @@
-# BotPag - Formatador de Planilhas
+# BotFormat - Formatador de Planilhas
 
 Ferramenta complementar para preparar planilhas de referência utilizadas pelos robôs de processamento de pagamentos.
 
